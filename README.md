@@ -1,5 +1,5 @@
 # social-listening-twitter
-stream tweets จาก twitter แบบ real-time
+real-time tweets stream from Twitter
 
 ## Installation
 ```node
